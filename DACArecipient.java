@@ -63,6 +63,7 @@ public class DACArecipient
     this.uscisNumber = "Unknown";
     this.countryOfOrigin = "Unknown";
     this.birthday = 2415021;
+    this.validFromDate = 2415021;
     this.expirationDate = 2415021;
     this.sex = 'X';
   }
